@@ -398,17 +398,15 @@ input[type=submit] {
 
 .navbar, .navbar-expand-lg .navbar-light .bg-light {
   float: left;
-  margin-left: 250px;
+  margin-left: 285px;
   width: 650px;
   overflow: hidden;
+  font-size: 18;
 }
 
 #mynav {
   margin: 0;
-/*  text-align: center;
-  color: #efeee7;
-//*  height: 80px; *//
-  padding-top: 20px;
+  padding-top: 0;
   padding-bottom: 2-px;
   font-size: 24px;
 
