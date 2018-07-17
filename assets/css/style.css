@@ -402,3 +402,18 @@ input[type=submit] {
   width: 650px;
   overflow: hidden;
 }
+
+#mynav {
+  margin: 0;
+/*  text-align: center;
+  color: #efeee7;
+//*  height: 80px; *//
+  padding-top: 20px;
+  padding-bottom: 2-px;
+  font-size: 24px;
+
+}
+#port1 {
+  color: teal;
+  font-family: 'Times New Roman', Times, serif;
+}
