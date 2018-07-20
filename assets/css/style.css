@@ -412,6 +412,7 @@ input[type=submit] {
 
 }
 #port1 {
-  color: teal;
+color: #4aaaa5;
+font-weight: bold;
   font-family: 'Times New Roman', Times, serif;
 }
